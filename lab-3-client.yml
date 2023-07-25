@@ -1,1 +1,3 @@
-lucky-word="DevaClient"
+---
+wordConfig:
+lucky-word= DevaClient
